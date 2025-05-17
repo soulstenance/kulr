@@ -52,10 +52,10 @@ bwhite_bg = "\033[107m"
 # Other formatting
 
 bold = "\033[1m"
-test = "\033[2m" # This makes the text greyer I guess?
+dim = "\033[2m" # Dims the text
 italic = "\033[3m"
 under = "\033[4m"
 blink = "\033[5m"
-test2 = "\033[6m" # Also blinking text? Idk what's going on...
-reverse = "\033[7m" # Seems to make a white background but documentation says "Reverse video on...
+blink2 = "\033[6m" # Also makes blinking text
+reverse = "\033[7m" # Reverses the background and text color
 conceal = "\033[8m" # Hides text but it can still be copied out and pasted
