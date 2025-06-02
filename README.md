@@ -24,7 +24,7 @@ Kulr comes with some additional non-color related options which can be combined 
 `italic` - Puts text in italics  
 `under` - Underlines text  
 `blink` - Makes the text blink  
-`blink2` - Also makes blinking text (Unsure if this is diffent from the above option in some terminals)  
+`blink2` - Also makes blinking text (Unsure if this is different from the above option in some terminals)  
 `reverse` - Reverses the background and text color  
 `conceal` - Hides text but it can still be copied out and pasted  
 
